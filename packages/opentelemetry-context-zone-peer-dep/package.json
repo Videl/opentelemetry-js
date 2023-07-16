@@ -83,7 +83,7 @@
   },
   "peerDependencies": {
     "@opentelemetry/api": ">=1.0.0 <1.5.0",
-    "zone.js": "^0.10.2 || ^0.11.0"
+    "zone.js": "^0.10.2 || ^0.13.1"
   },
   "dependencies": {
     "tslib": "^2.3.1"
